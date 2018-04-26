@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">parttime</string>
+    <string name="register">New User ? Click here to  <b><u> Register</u></b></string>
+    <string name="facebook_app_id">622349394776742</string>
+    <string name="fb_login_protocol_scheme">fb622349394776742</string>
+    <string name="resendotp"><u>Resend OTP </u></string>
+</resources>

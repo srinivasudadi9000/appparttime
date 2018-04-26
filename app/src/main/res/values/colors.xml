@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fe5723</color>
+    <color name="colorPrimaryDark">#fe5723</color>
+    <color name="colorAccent">#fe5723</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="light">#007EA8</color>
+    <color name="blue">#53AEFD</color>
+    <color name="yellow">#FBC332</color>
+    <color name="brick">#EA9C88</color>
+    <color name="software">#0200AC</color>
+    <color name="services">#249948</color>
+    <color name="training">#CEDBE3</color>
+    <color name="project">#4692E0</color>
+    <color name="office">#008000</color>
+    <color name="malls">#FFFFB6</color>
+    <color name="agri">#CEDF81</color>
+    <color name="officeboy">#96B566</color>
+    <color name="hotel">#c39122</color>
+    <color name="brown">#99000000</color>
+</resources>
